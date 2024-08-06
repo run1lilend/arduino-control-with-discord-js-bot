@@ -60,4 +60,4 @@ client.on('messageCreate', (msg) => {
     }
 })
 
-client.login(process.env.TOKEN) //by lilend
+client.login("TOKEN") //by lilend
